@@ -1,4 +1,4 @@
-<img src="./main/wall.png">
+![Header](https://github.com/PrezAndrey/prezandrey/blob/main/wall.png)
 
 # Привет! 🤘
 ## Меня зовут Андрей
