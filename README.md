@@ -1,4 +1,4 @@
-![Header](https://github.com/PrezAndrey/prezandrey/blob/main/wall.png)
+![Header](https://github.com/PrezAndrey/prezandrey/blob/main/wall2.png)
 
 # Привет! 🤘
 ## Меня зовут Андрей
