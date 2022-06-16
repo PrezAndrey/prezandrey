@@ -1,4 +1,4 @@
-<img src="./src/image/wall.png">
+<img src="./image/wall.png">
 
 # Привет! 🤘
 ## Меня зовут Андрей
