@@ -1,3 +1,5 @@
+<img src="./src/image/wall.png">
+
 # Привет! 🤘
 ## Меня зовут Андрей
 ## Я Junior iOS developer
