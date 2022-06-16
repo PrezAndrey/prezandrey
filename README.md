@@ -5,10 +5,10 @@
 ### Стараюсь писать код каждый день
 
 ### Мой первый коммерческий опыт:
-- WorkoutTypeSelector[https://github.com/PrezAndrey/WorkoutTypeSelector]
+- WorkoutTypeSelector [https://github.com/PrezAndrey/WorkoutTypeSelector]
 
 ### В данныый момент работаю над:
-- Трекер воды WaterTracker [тык] [https://github.com/PrezAndrey/WaterTracker]
+- Трекер воды [WaterTracker] [https://github.com/PrezAndrey/WaterTracker]
 - Поиск парков и скверов поблизости ParksAround [тык] [https://github.com/PrezAndrey/ParksAround]
 
 ### Связаться со мной:
