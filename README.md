@@ -5,7 +5,7 @@
 ### Стараюсь писать код каждый день
 
 ### Мой первый коммерческий опыт:
-- WorkoutTypeSelector [тык] [https://github.com/PrezAndrey/WorkoutTypeSelector]
+- WorkoutTypeSelector[https://github.com/PrezAndrey/WorkoutTypeSelector]
 
 ### В данныый момент работаю над:
 - Трекер воды WaterTracker [тык] [https://github.com/PrezAndrey/WaterTracker]
