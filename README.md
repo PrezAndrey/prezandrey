@@ -1,4 +1,4 @@
-<img src="./image/wall2.png">
+<img src="./image/wall3.jpeg">
 
 # Hello world! 🤘
 ## My name is Andrew
