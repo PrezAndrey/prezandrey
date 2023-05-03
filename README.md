@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <img src="./image/wall2.png">
+=======
+![Header](https://github.com/PrezAndrey/prezandrey/blob/main/wall2.png)
+>>>>>>> b4f21539a0098ce7e69de0508b78739a68a14117
 
 # Hello world! 🤘
 ## My name is Andrew
