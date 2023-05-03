@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 <img src="./image/wall2.png">
-=======
-![Header](https://github.com/PrezAndrey/prezandrey/blob/main/wall2.png)
->>>>>>> b4f21539a0098ce7e69de0508b78739a68a14117
 
 # Hello world! 🤘
 ## My name is Andrew
@@ -20,7 +16,7 @@
 ### Contacts:
 - Telegram: @Andrey94andrew 
 - Email 📧: aw06.1994@yandex.ru || aw06.94@gmail.com 
-- LinkedIn: linkedin.com/in/andrew-prez
+- LinkedIn: https://linkedin.com/in/andrew-prez
 
 <!--
 **PrezAndrey/prezandrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
