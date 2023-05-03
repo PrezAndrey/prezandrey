@@ -1,21 +1,22 @@
-<img src="./src/image/wall.png">
+<img src="./image/wall2.png">
 
-# Привет! 🤘
-## Меня зовут Андрей
-## Я Junior iOS developer
+# Hello world! 🤘
+## My name is Andrew
+## I'm iOS developer and coding teacher
 
-### Стараюсь писать код каждый день 💻
+## This GitHub account is for my projects  💻
 
-### Мой первый коммерческий опыт:
-- Подбор тренировки по напрвлению и виду нагрузки [WorkoutTypeSelector](https://github.com/PrezAndrey/WorkoutTypeSelector)
+### Check some of my projects:
+- Track crypto currencies -- [Cryptoo](https://github.com/PrezAndrey/Cryptoo)
+- Track your daily water  -- [WaterTracker](https://github.com/PrezAndrey/WaterTracker)
+- Find the closest park --  [ParksAround](https://github.com/PrezAndrey/ParksAround)
+- Screen for workout application --  [WorkoutTypeSelector](https://github.com/PrezAndrey/WorkoutTypeSelector)
 
-### В данныый момент работаю над:
-- Трекер воды [WaterTracker](https://github.com/PrezAndrey/WaterTracker)
-- Поиск парков и скверов поблизости [ParksAround](https://github.com/PrezAndrey/ParksAround)
 
-### Связаться со мной:
+### Contacts:
 - Telegram: @Andrey94andrew 
 - Email 📧: aw06.1994@yandex.ru || aw06.94@gmail.com 
+- LinkedIn: linkedin.com/in/andrew-prez
 
 <!--
 **PrezAndrey/prezandrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
